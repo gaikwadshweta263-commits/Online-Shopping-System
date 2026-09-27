@@ -1,4 +1,4 @@
-# Online Shop Management System Database
+# Online Shop Management System 
 The Online Shop Management System Database is designed to efficiently manage customers, products, orders, and payments in an online shopping environment. It demonstrates essential database functionalities such as customer management, product catalog management, order processing, and payment tracking using MySQL. This project provides a foundational understanding of how online shopping systems store, organize, and retrieve information through a relational database model.
 
 ---
