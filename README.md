@@ -104,7 +104,7 @@ Use SQL queries to analyze customer orders, product sales, payment information, 
 ---
 
 ## Project Results
-[Click here to get full code]([https://github.com/gaikwadshweta263-commits/Online-Shopping-System/tree/c2d15ce09236d96d39bc514e3f7541b637dd59b1/database](https://github.com/gaikwadshweta263-commits/Online-Shopping-System/blob/62b325775b604a4961a1f65f8db188f43ff39795/onlineshopsys_database.sql))
+[Click here to get full code]([https://github.com/gaikwadshweta263-commits/Online-Shopping-System/tree/c2d15ce09236d96d39bc514e3f7541b637dd59b1/database](https://github.com/gaikwadshweta263-commits/Online-Shopping-System/blob/62b325775b604a4961a1f65f8db188f43ff39795/onlineshopsys_database.sql)
 
 ---
 
