@@ -85,7 +85,18 @@ Answer:
 |           1 | Shweta        | shweta@gmail.com | 9876543210 | Pune    |
 +-------------+---------------+------------------+------------+---------+
 
+__4.Display the customers who live in Wakad.
+Query:
+select * from customers where address = 'wakad';
 
+Answer:
++-------------+---------------+--------------------+------------+---------+
+| customer_id | customer_name | email              | phone      | address |
++-------------+---------------+--------------------+------------+---------+
+|           3 | Vishakha      | vishakha@gmail.com | 9876543212 | Wakad   |
++-------------+---------------+--------------------+------------+---------+
+
+ 
 __5. Retrieve products whose price is greater than 1000.
 Query:
 select product_id, product_name, price from products where price > 1000;
